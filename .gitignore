@@ -1,0 +1,8 @@
+# career-ops is a separate workspace with its own git repo — never commit it here
+career-ops/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
